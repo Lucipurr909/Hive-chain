@@ -1,0 +1,11 @@
+{
+  "name": "hive-chain",
+  "version": "1.0.0",
+  "description": "A hybrid blockchain prototype blending Solana, Ethereum, Bitcoin, and Dogecoin ideas.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js"
+  }
+}
